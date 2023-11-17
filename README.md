@@ -1,3 +1,4 @@
+[![MasterHead](https://online.york.ac.uk/wp-content/uploads/2021/10/Image-of-a-human-made-up-of-lit-up-lines-touching-a-graphic-which-reads-NLP-1030x579.jpg)
 <h1 align="center">Hi 👋, I'm Nitish Patil</h1>
 <h3 align="center">Data Science Specialist</h3>
 
